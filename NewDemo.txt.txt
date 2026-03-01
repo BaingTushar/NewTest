@@ -1,1 +1,10 @@
 we are adding the new file in my local computer 
+
+
+adding new data to the file for checking git diff command 
+
+
+sskjghshl
+
+
+adding new line to the file for checking what Exact changes happened 

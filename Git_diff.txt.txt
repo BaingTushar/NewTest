@@ -1,0 +1,5 @@
+this is new file for checking the code 
+
+we are using git diff command 
+
+kfdkjdfhfj;f;
