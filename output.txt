@@ -1,0 +1,5 @@
+  577  git add .
+  578  git commit -m "New commit for testing"
+  579  git push Tushar main
+  580  history
+  581  history 10 | tail -n 5 >output.txt
